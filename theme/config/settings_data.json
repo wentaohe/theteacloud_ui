@@ -1,0 +1,280 @@
+{
+  "presets": {
+    "Objects": {
+      "headings_font_primary": "sans-serif",
+      "body_font_primary": "sans-serif",
+      "body_primary_size": 16,
+      "body_font_secondary": "sans-serif",
+      "color_background_header": "#ffffff",
+      "color_text_header": "#000000",
+      "color_background_main_secondary": "#f2f2f2",
+      "color_background_footer": "#101010",
+      "color_text_footer": "#f2efec",
+      "container_vertical_space": 140,
+      "grid_gap": 32,
+      "border_width_forms": 1,
+      "border_radius_forms": 6,
+      "border_width_buttons": 1,
+      "border_radius_buttons": 30,
+      "product_card_aspect_ratio": "0.83333",
+      "product_card_aspect_ratio_fit": false,
+      "product_card_thumbnail_gallery": false,
+      "product_card_thumbnail_link": true,
+      "variants_style": "radio",
+      "color_swatches_labels": "color,colour,couleur,cor,colore,culoare,farbe,색,色,カラー,färg,farve,szín,barva",
+      "cart_mini_shadow": false,
+      "product_card_badge_sale_type": "percentage",
+      "product_card_badge_sale_color": "#000000",
+      "product_card_badge_custom_1_color": "#ffffff",
+      "product_card_badge_custom_1_text_color": "#000000",
+      "product_card_badge_custom_2_color": "#ffffff",
+      "product_card_badge_custom_2_text_color": "#000000",
+      "cart_image_ratio": "0.83333",
+      "cart_upsell_heading": "New Product",
+      "cart_recommendations": false,
+      "cart_free_shipping": true,
+      "cart_free_shipping_amount": "200",
+      "show_gotop": true,
+      "color_accent_header": "#f25a38",
+      "color_accent_main": "#f25a38",
+      "color_background_cards": "#FFFFFF",
+      "color_accent_cards": "#f25a38",
+      "color_accent_footer": "#f25a38"
+    },
+    "Beauty": {
+      "headings_font_primary": "dm_sans_n5",
+      "body_font_primary": "dm_sans_n4",
+      "body_font_secondary": "dm_sans_n5",
+      "color_background_header": "#ffffff",
+      "color_background_main_secondary": "#f2efec",
+      "color_background_footer": "#1b1a1a",
+      "color_text_footer": "#f1eeec",
+      "container_vertical_space": 140,
+      "grid_gap": 32,
+      "border_width_forms": 1,
+      "border_radius_forms": 6,
+      "border_radius_buttons": 6,
+      "product_card_aspect_ratio": "0.666667",
+      "product_card_thumbnail_link": true,
+      "variants_style": "select",
+      "color_swatches_labels": "color,colour,couleur,cor,colore,culoare,farbe,색,色,カラー,färg,farve,szín,barva",
+      "cart_mini_shadow": false,
+      "cart_image_ratio": "0.83333",
+      "cart_free_shipping": true,
+      "social_facebook": "#",
+      "social_instagram": "#",
+      "social_pinterest": "#",
+      "color_accent_header": "#f25a38",
+      "color_accent_main": "#f25a38",
+      "color_background_cards": "#FFFFFF",
+      "color_accent_cards": "#f25a38",
+      "color_accent_footer": "#f25a38"
+    },
+    "Books": {
+      "headings_font_primary": "dm_sans_n5",
+      "headings_primary_size": 70,
+      "headings_line": 1.1,
+      "headings_spacing": -3,
+      "body_font_primary": "pt_mono_n4",
+      "body_primary_size": 15,
+      "color_background_header": "#FFFFFF",
+      "color_background_main_secondary": "#EEF1F2",
+      "color_background_footer": "#000000",
+      "color_text_footer": "#EEF1F2",
+      "theme_max_width": 1920,
+      "container_vertical_space": 150,
+      "widgets_border_radius": 20,
+      "border_radius_buttons": 30,
+      "product_card_aspect_ratio": "0.83333",
+      "proudct_card_aspect_ratio_padding": 0,
+      "product_card_border_radius": 20,
+      "product_card_thumbnail_gallery": false,
+      "product_card_thumbnail_link": true
+    },
+    "Restaurant": {
+      "headings_font_primary": "bauer_bodoni_n4",
+      "headings_primary_size": 76,
+      "headings_spacing": 0,
+      "body_font_secondary": "bauer_bodoni_n4",
+      "body_secondary_size": 20,
+      "color_background_header": "#161514",
+      "color_text_header": "#d2c692",
+      "color_background_main": "#efede6",
+      "color_text_main": "#161514",
+      "color_background_footer": "#161514",
+      "color_text_footer": "#d2c692",
+      "container_vertical_space": 150,
+      "widgets_border_radius": 14,
+      "border_radius_buttons": 30,
+      "product_card_aspect_ratio": "1",
+      "product_card_aspect_ratio_fit": false,
+      "proudct_card_aspect_ratio_padding": 0,
+      "product_card_background": "rgba(0,0,0,0)",
+      "product_card_border": "#efede6",
+      "product_card_border_radius": 20,
+      "product_card_thumbnail_gallery": true,
+      "product_card_thumbnail_link": true,
+      "cart_mini_enabled": false,
+      "show_badges": true,
+      "show_breadcrumb": true
+    }
+  },
+  "current": {
+    "headings_font_primary": "sans-serif",
+    "body_font_primary": "sans-serif",
+    "body_primary_size": 16,
+    "body_font_secondary": "sans-serif",
+    "color_background_header": "#ffffff",
+    "color_text_header": "#000000",
+    "color_background_main_secondary": "#f2f2f2",
+    "color_background_footer": "#101010",
+    "color_text_footer": "#f2efec",
+    "container_vertical_space": 140,
+    "grid_gap": 32,
+    "border_width_forms": 1,
+    "border_radius_forms": 6,
+    "border_width_buttons": 1,
+    "border_radius_buttons": 30,
+    "product_card_aspect_ratio": "0.83333",
+    "product_card_aspect_ratio_fit": false,
+    "product_card_thumbnail_gallery": false,
+    "product_card_thumbnail_link": true,
+    "variants_style": "radio",
+    "color_swatches_labels": "color,colour,couleur,cor,colore,culoare,farbe,색,色,カラー,färg,farve,szín,barva",
+    "cart_mini_shadow": false,
+    "reviews_app": "default",
+    "product_card_badge_sale_type": "percentage",
+    "product_card_badge_sale_color": "#000000",
+    "product_card_badge_custom_1_color": "#ffffff",
+    "product_card_badge_custom_1_text_color": "#000000",
+    "product_card_badge_custom_2_color": "#ffffff",
+    "product_card_badge_custom_2_text_color": "#000000",
+    "favicon": "shopify:\/\/shop_images\/240628_Logo_File-10.png",
+    "cart_image_ratio": "0.83333",
+    "cart_upsell_heading": "New Product",
+    "cart_recommendations": false,
+    "cart_free_shipping": true,
+    "cart_free_shipping_amount": "35",
+    "show_breadcrumb": true,
+    "show_gotop": true,
+    "color_accent_header": "#f25a38",
+    "color_accent_main": "#f25a38",
+    "color_background_cards": "#FFFFFF",
+    "color_accent_cards": "#f25a38",
+    "color_accent_footer": "#f25a38",
+    "sections": {
+      "popups": {
+        "type": "popups",
+        "blocks": {
+          "popups-0": {
+            "type": "cookies",
+            "settings": {
+              "enable": false,
+              "show_after": 1,
+              "popup_bgcolor": "#111111",
+              "popup_txtcolor": "#ffffff",
+              "popup_box_shadow": false
+            }
+          },
+          "popups-1": {
+            "type": "newsletter",
+            "settings": {
+              "enable": false,
+              "visibility": "all",
+              "title": "Newsletter",
+              "content": "<p>Subscribe and receive exclusive information and offers!<\/p>",
+              "show_after": 5,
+              "show_repeat": "week",
+              "popup_bgcolor": "#111111",
+              "popup_txtcolor": "#ffffff",
+              "popup_box_shadow": false
+            }
+          },
+          "546c1036-f9b3-4b5a-b338-6af7354bd351": {
+            "type": "custom",
+            "settings": {
+              "enable": false,
+              "visibility": "all",
+              "title": "Popup",
+              "content": "<p>Stay up to date on the latest product releases, special offers & news by signing up for our newsletter.<\/p>",
+              "show_after": 10,
+              "show_repeat": "week",
+              "box_size": "small",
+              "popup_bgcolor": "#111111",
+              "popup_txtcolor": "#ffffff",
+              "popup_box_shadow": false
+            }
+          }
+        },
+        "block_order": [
+          "popups-0",
+          "popups-1",
+          "546c1036-f9b3-4b5a-b338-6af7354bd351"
+        ],
+        "settings": {
+          "popup_border_radius": 10
+        }
+      }
+    },
+    "content_for_index": [
+
+    ],
+    "blocks": {
+      "9474939235389752620": {
+        "type": "shopify:\/\/apps\/discounty\/blocks\/product-app-embed-block\/d65eb522-0d94-499f-9831-d4b3301f5340",
+        "disabled": false,
+        "settings": {
+          "buy_wording": "Buy",
+          "get_wording": "get",
+          "off_wording": "off",
+          "total_wording": "total",
+          "peritem_wording": "per item",
+          "oneach_wording": "on each",
+          "items_wording": "items",
+          "get_each_item_for_wording": "get each item for"
+        }
+      },
+      "17357649492293666392": {
+        "type": "shopify:\/\/apps\/discounty\/blocks\/app-block1\/d65eb522-0d94-499f-9831-d4b3301f5340",
+        "disabled": false,
+        "settings": {
+          "buy": "Buy",
+          "get": "get",
+          "off": "off",
+          "total": "total",
+          "peritem": "per item",
+          "oneach": "on each",
+          "item": "items"
+        }
+      },
+      "13257748480192772706": {
+        "type": "shopify:\/\/apps\/discounty\/blocks\/app-embed\/d65eb522-0d94-499f-9831-d4b3301f5340",
+        "disabled": false,
+        "settings": {
+          "totalLabel": "Total",
+          "savedLabel": "Saving",
+          "align": "end",
+          "lineThrough": true
+        }
+      },
+      "4275615285897611771": {
+        "type": "shopify:\/\/apps\/fera\/blocks\/embed\/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "15351435345818755577": {
+        "type": "shopify:\/\/apps\/pandectes-gdpr-compliance\/blocks\/banner\/58c0baa2-6cc1-480c-9ea6-38d6d559556a",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "8378667285124002925": {
+        "type": "shopify:\/\/apps\/avada-seo-suite\/blocks\/avada-seo\/15507c6e-1aa3-45d3-b698-7e175e033440",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
+  }
+}
